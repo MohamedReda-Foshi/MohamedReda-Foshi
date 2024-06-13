@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Reda Foshi</h1>
-<h3 align="center">I am frontend developer what to learn everything about computer science</h3>
+<h3 align="center">I am software developer what to learn everything about computer science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
